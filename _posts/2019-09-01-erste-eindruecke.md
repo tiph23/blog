@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Kutis on (world)tour"
+date: 2019-09-01
+---
+
 Liebe Kutis,
 
 1 Monat dass ich in Kanada bin und schon so viele Sachen zu erzahlen!
