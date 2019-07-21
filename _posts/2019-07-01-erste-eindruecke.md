@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Kutis on (world)tour"
-date: 2019-09-01
+date: 2019-07-01
+categories: [kutis]
 ---
 
 Liebe Kutis,
