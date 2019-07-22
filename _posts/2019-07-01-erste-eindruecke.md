@@ -40,3 +40,5 @@ So lange er weg ist habe ich besuch hier in Montreal und dann bin ich ja in LA b
 D.h ich werde es fur die WM doch nicht ruber fliegen :'(
 In Mai 2020 bin ich hoffentlich ein bisschen in Europa und dann auch in Aachen/Koln. 
 Ach ja, und fur Tokyo und die Olympische Spiele: es gibt nichts konkretes im Moment. Felix hat letzte Woche einen Skype interview gehabt und er wartet jetzt auf Ruckmeldung. Und fur mich gibt es ja nichts neues, ich habe versuch eine Perso zu kontaktieren die ich dur meine Franzosiche Verein kenne, aber ich bin nicht sicher dass sie mir viel helfen kann, sie hat eig. nur was mit der Orga von Paris 2024 zu tun. 
+
+![useful image]({{ site.url }}/assets/Handstand_schwimmbad.jpg)
