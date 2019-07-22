@@ -2,4 +2,5 @@ name: Tiphanie Dousset
 markdown: kramdown
 permalink: /blog/:categories/:year/:month/:day/:title
 theme: jekyll-theme-cayman
+# theme: jekyll-theme-Slate
 repository: tiph23/blog
