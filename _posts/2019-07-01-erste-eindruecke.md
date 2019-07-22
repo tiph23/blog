@@ -1,7 +1,5 @@
 ---
 layout: post
-title: "Kutis on (world)tour"
-date: 2019-07-01
 categories: [kutis]
 ---
 
@@ -11,20 +9,20 @@ Liebe Kutis,
 Ich versuche es zusammenzufassen :D
 
 
-Ich mache sport. JA!
+# Ich mache sport? JA!
 Felix und ich gehen oft joggen und einmal war ich schwimmen! Montreal ist wie jede Amerikanische Stadt gebaut, d.h die Strassen sind in einem Raster angeordnet und es ist von daher sehr einfach jedes mal eine neue Strecke fur joggen zu nehmen, wir koennen uns nicht verlaufen :D
 Wenn ich zu faul bin dann gehe ich zum Park der bei mir um die Ecke ist. Wenn ich sehr motiviert bin dann joggen ich bis zum Mont Royal hoch (234m) und geniesse von oben die Super Ausischt uber die Stadt (...und meine Beine tun am Tag danach sehr weh). Und dazwischen gibt es die "Old-port Strecke". Beim old port ist auch das Cirque du Soleil Zelt gebaut und wenn ich spat Abend umherum laufe dann kann ich die Musik von der show horen :) A propos Cirque du Soleil; Felix wollte das wir fur mein Geburtstag die show angucken aber da die Auffuhrung nur bis 20. Juli sind wir einfach letzte Woche dahin gegangen =) Die show war wieder mega gut!!! Dnd fur mein Geburtstag werden wir uns eine andere show angucken (hier den Link: https://py1.co/en/shows/through-the-echoes/ ) was auch von dem Grunder von Cirque du Soleil erstellt wurde; aber es ist ohne Akrobaten)
 Ich wurde eig. gerne oefter schwimmnen gehen aber da wo ich war letztes mal war nicht so gut weil es SEHR voll war (outdoor schwimmbad sind auch kostenlos unter die Woche :o) und es gab keine Linie fur schwimmen. Und der schwimmbad ist klein.
 Auch wenn die joggen-strecke hier ziemlich cool sind vermisse ich sehr unsere Montag-Mittwoch rythmus <3  (und das Aachene Schwimbad morgens im Sommer mit Kristina!)
 Am Dienstag gehen wir mit Felix auf einen Circus training! Um Trapeze usw zu uben. Hoffentlich wird es gut und nicht nur fur anfanger die ka von turnen oder so haben.
 
-Das Essen ist sehr Amerikanisch. JA!
+# Das Essen ist sehr Amerikanisch? JA!
 Olala ich muss wirklich mit dem Essen hier aufpassen. Es ist so einfach was mitzunehmen und ich habe immer Lust alles zu probieren...aber alles ist so ungesund (und Lecker) :P
 Im Supermarkte sind die Gemuse auch leider sehr teuer. Am bestens geht man zum Markt. Es gibt ein gamz gute Markt wo wir einmal waren aber man muss erst 25 minuten mit dem Fahrrad fahren.
 Die Stadt ist so gross, es ist echt krass, man denkt immer "ach, das ist doch um die Ecke" und zack man fahrt aber erst 20minuten Fahrrad :o 
 Wir haben selbst kein Fahrrader aber wir haben so ein kleines Abo womit man Lei Fahrrader nutzen kann. Und uber all in die Stadt sind so Stationen, und unter anderem in unsere Strasse :-)
 
-Wir waren schon campen. JA!
+# Wir waren schon campen? JA!
 Felix hat ein Freund aus Montreal der sehr gerne in die Natur ist. Er ist auch einradfahrer, aber outdoor einradfahrer :) und kennt sich von daher sehr gut mit den National parken usw um Montreal herum. Wir waren einmal uber das WE mit ihm campen, das war sehr sehr schon. Wir hatten ein traumhaftes sternhimmmel, mit Sternschnuppe und wir hatten Feuer gemacht und darauf Wurstchen gegrillt. Und da es keine Sanitarblock gab sind wir einfach im Fluss morgens gesprungen, obwohl es sau kalt war ! (kalter als die Dusches beim Turnfest in Berlin :D)
 Und letzte Woche sind wir die komplette WOche campen gegangen. Wild camping sogar. Der Ort war TRAUMHAFT und wir waren allein dort (also ich felix + 3 Freunden). Tagsuber habe ich in einen Cafe gearbeitet, was schon vorher geklart wurde, und die jungs sind vormittags klettern gegangen. Und nachmittags haben sie auch aus dem cafe auch gearbeitet.
 
