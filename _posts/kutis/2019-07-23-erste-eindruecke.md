@@ -13,8 +13,8 @@ Ich versuche Fragen zu beantworten, die ihr mich schonmal gefragt habt. Oder ich
 # Wo wohnst du gerade? 
 Im Zentrum von Montreal! In eine RIESIEGE WG mit 3 anderen Leute: ein Paar aus Frankreich, ein Studente aus Toronto der gerade ein Praktikum in Montreal macht. Also wir sind 5 Leute insgesamt.
 
-![useful image]({{ site.url }}/assets/canada/wohnung.jpg)
-![useful image]({{ site.url }}/assets/canada/wohnung1.jpg)
+![useful image]({{ site.url }}/assets/Canada/wohnung.jpg)
+![useful image]({{ site.url }}/assets/Canada/wohnung1.jpg)
 
 
 # Machst du sport? JA!
@@ -32,11 +32,11 @@ Auch wenn die joggen-strecke hier ziemlich cool sind vermisse ich sehr unsere Mo
 Letzte Woche haben wir mit Felix auf einen Circus training mitgemacht! Also haupsaechlich Tuch! Aber vielleicht geht es mit Trapeze usw weiter, mal gucken. Das erste Training war auf jeden Fall sehr cool! Ich versuche naechstes mal Bilder zu machen.
 
 Aussicht vom Mont Royal
-![useful image]({{ site.url }}/assets/canada/MontRoyal.jpg) 
-![useful image]({{ site.url }}/assets/canada/Handstand_schwimmbad.jpg)
+![useful image]({{ site.url }}/assets/Canada/MontRoyal.jpg) 
+![useful image]({{ site.url }}/assets/Canada/Handstand_schwimmbad.jpg)
 Cirque du Soleil
-![useful image]({{ site.url }}/assets/canada/cds.jpg)
-![useful image]({{ site.url }}/assets/canada/cds1.jpg)
+![useful image]({{ site.url }}/assets/Canada/cds.jpg)
+![useful image]({{ site.url }}/assets/Canada/cds1.jpg)
 
 
 # Das Essen ist sehr Amerikanisch? JA!
@@ -45,8 +45,8 @@ Im Supermaerkte sind die Gemuese auch leider sehr teuer. Am bestens geht man zum
 Die Stadt ist echt sehr gross, man denkt immer von Google maps "ach, das ist doch um die Ecke" und zack man faehrt aber erst 20 minuten Fahrrad.
 Wir haben selbst kein Fahrraeder aber wir haben so ein kleines Abo womit man Lei Fahrraeder nutzen kann. Und uber all in die Stadt sind so Stationen, und unter anderem in unsere Strasse :-)
 
-![useful image]({{ site.url }}/assets/canada/mapleSirup.jpg)
-![useful image]({{ site.url }}/assets/canada/wafel.jpg)
+![useful image]({{ site.url }}/assets/Canada/mapleSirup.jpg)
+![useful image]({{ site.url }}/assets/Canada/wafel.jpg)
 
 
 # Wo wart ihr unterwegs?
@@ -60,13 +60,13 @@ Es gibt auch im Sommer sehr viel zu tun! Es gab schon mehrere Musik festivals: r
 Und das beste zum Schluss: es gibt ein internationales Feuerwerk festival! Einen Monat lang gibt es Mittwochs und Samstags ein 30minuten Feuerwerk! Jedes mal ist ein anderes Land dran. Dieses Jahr waren im Wettkampf: USA, Kanada, Australien, Italien, Sudkorea und Portugal. Deutschland hat letztes mal in 2007 teilgenomen und Silver gewonnen.
 
 
-![useful image]({{ site.url }}/assets/canada/natur.jpg)
-![useful image]({{ site.url }}/assets/canada/natur1.jpg)
+![useful image]({{ site.url }}/assets/Canada/natur.jpg)
+![useful image]({{ site.url }}/assets/Canada/natur1.jpg)
 Wild Camping
-![useful image]({{ site.url }}/assets/canada/wildCamping.jpg)
+![useful image]({{ site.url }}/assets/Canada/wildCamping.jpg)
 Zimmer mit Aussischt
-![useful image]({{ site.url }}/assets/canada/morgen.jpg)
-![useful image]({{ site.url }}/assets/canada/stark.jpg)
+![useful image]({{ site.url }}/assets/Canada/morgen.jpg)
+![useful image]({{ site.url }}/assets/Canada/stark.jpg)
 
 
 # What's next?
@@ -76,8 +76,8 @@ Ach ja, und fuer Tokyo und die Olympische Spiele gibt es leider nichts konkretes
 
 
 # Handstand?
-![useful image]({{ site.url }}/assets/canada/handstand.jpg)
-![useful image]({{ site.url }}/assets/canada/handstandWasser.jpg)
+![useful image]({{ site.url }}/assets/Canada/handstand.jpg)
+![useful image]({{ site.url }}/assets/Canada/handstandWasser.jpg)
 
 LG, die "Seniorin" Tiphi(e)
 
